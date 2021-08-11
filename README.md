@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Student in  [Zhejiang University of Technology][1]
-- 🌱 I’m currently learning C++ STL
+- 🌱 I’m currently learning Tensorflow
 - 📫 How to reach me: [Website][2]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boom1999&count_private=true&show_icons=true)
