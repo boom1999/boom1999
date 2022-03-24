@@ -1,9 +1,9 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
 
 - 🔭 Student in  [Zhejiang University of Technology][1]
-- 🌱 I’m currently learning Tensorflow
-- 📫 How to reach me: [Website][2]
-- ⚡ Future work: [UAV.NUAA][3]
+- 🌱 I’m currently learning [Tensorflow][2]
+- 📫 How to reach me: [Website][3]
+- ⚡ Future work: [UAV.NUAA][4]
 
 <div>
   <a href = "mailto:lingzhicheng1999@outlook.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
@@ -30,8 +30,9 @@
   ![Snake animation](https://github.com/boom1999/boom1999/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-[1]: http://www.zjut.edu.cn/
-[2]: https://www.lingzhicheng.cn
-[3]: http://uav.nuaa.edu.cn/
+[1]: http://www.zjut.edu.cn
+[2]: https://www.tensorflow.org
+[3]: https://www.lingzhicheng.cn
+[4]: http://uav.nuaa.edu.cn
 
 <!-- markdownlint-disable-file MD033 MD041 -->
