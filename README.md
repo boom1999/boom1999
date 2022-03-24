@@ -3,7 +3,7 @@
 - 🔭 Student in  [Zhejiang University of Technology][1]
 - 🌱 I’m currently learning Tensorflow
 - 📫 How to reach me: [Website][2]
-- ⚡ Future work: UAV
+- ⚡ Future work: [UAV.NUAA][3]
 
 <div>
   <a href = "mailto:lingzhicheng1999@outlook.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
@@ -28,5 +28,6 @@
 
 [1]: http://www.zjut.edu.cn/
 [2]: https://www.lingzhicheng.cn
+[3]: http://uav.nuaa.edu.cn/
 
 <!-- markdownlint-disable-file MD033 -->
