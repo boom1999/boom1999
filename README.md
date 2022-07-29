@@ -6,7 +6,7 @@
 - ⚡ Future work: [UAV.NUAA][4]
 
 <div>
-  <a href = "mailto:lingzhicheng1999@outlook.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lingzhicheng1999@outlook.com"><img align="center" alt="gmail" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/gmail.svg"></a>
 </div>
 
 ### Analytics ⚙️
