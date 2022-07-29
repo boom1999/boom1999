@@ -1,13 +1,9 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
 
-- 🔭 Student in  [Zhejiang University of Technology][1]
-- 🌱 I’m currently learning [Tensorflow][2]
+- 🔭 Student in  [Nanjing University of Aeronautics and Astronautics][1]
+- 🌱 I’m currently learning [Torch][2]
 - 📫 How to reach me: [Website][3]
-- ⚡ Future work: [UAV.NUAA][4]
-
-<div>
-  <a href = "mailto:lingzhicheng1999@outlook.com"><img align="center" alt="gmail" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/gmail.svg"></a>
-</div>
+- ⚡ Future study: [UAV][4]
 
 ### Analytics ⚙️
 
@@ -38,8 +34,8 @@
   ![Snake animation](https://github.com/boom1999/boom1999/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-[1]: http://www.zjut.edu.cn
-[2]: https://www.tensorflow.org
+[1]: http://www.nuaa.edu.cn
+[2]: https://pytorch.org
 [3]: https://www.lingzhicheng.cn
 [4]: http://uav.nuaa.edu.cn
 
