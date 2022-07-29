@@ -20,12 +20,20 @@
 ### Languages & Tools 🛠
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/python.svg">
+  <img align="center" alt="c" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/c.svg">
+  <img align="center" alt="cplusplus" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/cplusplus.svg">
+  <img align="center" alt="matlab" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/matlab.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/typescript.svg">
+  <img align="center" alt="bash" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/bash.svg">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="linux" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/linux.svg">
+  <img align="center" alt="vim" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/vim.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/docker.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/git.svg">
+  <img align="center" alt="latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
+  <img align="center" alt="markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
 
   ![Snake animation](https://github.com/boom1999/boom1999/blob/output/github-contribution-grid-snake.svg)
 </div>
