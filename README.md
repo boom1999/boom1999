@@ -20,7 +20,7 @@
   <img align="center" alt="c" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/c.svg">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/cplusplus.svg">
   <img align="center" alt="matlab" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/matlab.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/typescript.svg">
+  <img align="center" alt="go" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/go.svg">
   <img align="center" alt="bash" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/bash.svg">
 </div>
 <div style="display: inline_block"><br>
