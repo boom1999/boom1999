@@ -34,6 +34,9 @@
   ![Snake animation](https://github.com/boom1999/boom1999/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [1]: http://www.nuaa.edu.cn
 [2]: https://pytorch.org
 [3]: https://www.lingzhicheng.cn
