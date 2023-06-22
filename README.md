@@ -35,9 +35,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
@@ -80,19 +80,19 @@ Sunday                   169 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        ██████████████████████░░░   86.73 % 
-AUTO_DETECTED            19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Python                   1 hr 56 mins        █████████████████████░░░░   85.41 % 
+AUTO_DETECTED            19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 29 mins       █████████████████████████   100.00 % 
+PyCharm                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OpticalTarget            2 hrs 29 mins       █████████████████████████   100.00 % 
+OpticalTarget            2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2023 18:36:32 UTC
+ Last Updated on 22/06/2023 18:36:16 UTC
 <!--END_SECTION:waka-->
 
 [1]: http://www.nuaa.edu.cn
