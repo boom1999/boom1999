@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
@@ -80,17 +80,17 @@ Sunday                   169 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 23 mins        █████████████████████████   100.00 % 
+Python                   3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 23 mins        █████████████████████████   100.00 % 
+PyCharm                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OpticalTarget            1 hr 23 mins        █████████████████████████   100.00 % 
+OpticalTarget            3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2023 18:39:46 UTC
+ Last Updated on 24/06/2023 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 [1]: http://www.nuaa.edu.cn
