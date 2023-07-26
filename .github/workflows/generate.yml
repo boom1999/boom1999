@@ -51,15 +51,6 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           
-      - name: Organization introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.plugin.introduction.svg
-          token: ${{ secrets.GH_TOKEN }}
-          user: github
-          base: header
-          plugin_introduction: yes
-          
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -71,6 +62,15 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
+              
+      - name: Organization introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.introduction.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: zjutjh
+          base: header
+          plugin_introduction: yes
           
   github-Snake:
     name: Jobs to update datas
