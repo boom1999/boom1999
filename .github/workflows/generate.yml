@@ -17,9 +17,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      - uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          branch: main
+          default_author: github_actions
+          message: 'Generate Contribution Snake'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
