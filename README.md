@@ -42,65 +42,13 @@
   <tr>
     <td align="center">
       <div><b><em><spam>Statistics</spam></em></b></div>
-      <img align="left" src="./assets/metrics.plugin.isocalendar.svg"/>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
     <td align="left">
-      <img src="./assets/metrics.plugin.habits.charts.svg/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
   </tr>
 </table>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%205%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-🌆 Daytime                493 commits         ████████████░░░░░░░░░░░░░   49.70 % 
-🌃 Evening                369 commits         █████████░░░░░░░░░░░░░░░░   37.20 % 
-🌙 Night                  38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Wednesday                98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Thursday                 271 commits         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   20 hrs 40 mins      ██████████████████████░░░   87.63 % 
-TeX                      2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-PyCharm                  20 hrs 43 mins      ██████████████████████░░░   87.82 % 
-VS Code                  2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-
-🐱‍💻 Projects: 
-OpticalTarget            20 hrs 43 mins      ██████████████████████░░░   87.82 % 
-TexFile                  2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-```
-
-
- Last Updated on 26/07/2023 05:44:32 UTC
-<!--END_SECTION:waka-->
 
 [1]: http://www.nuaa.edu.cn
 [2]: https://pytorch.org
