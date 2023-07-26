@@ -3,7 +3,7 @@
 - 🔭 Student in  [Nanjing University of Aeronautics and Astronautics][1]
 - 🌱 I’m currently learning [Torch][2]
 - 📫 How to reach me: [Website][3]
-- ⚡ Future study: [UAV][4]
+- ⚡ Future study: [UAV][4] `UAV-based optical target localization and adaptive parameter optimization, UAV track planning.`
 
 ### Analytics ⚙️
 
