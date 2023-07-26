@@ -30,13 +30,25 @@
   <img align="center" alt="git" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/git.svg">
   <img align="center" alt="latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
   <img align="center" alt="markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
+</div>
 
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-  </picture>
-</div>
+</picture>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg"/>
+    </td>
+    <td align="left">
+      <img src="./assets/metrics.plugin.habits.charts.svg/>
+    </td>
+  </tr>
+</table>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%205%20mins-blue)
