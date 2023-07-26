@@ -6,7 +6,9 @@
 - ⚡ Future study: [Unmanned Aerial Vehicles Research Institute][4]
 
 > Currently studying for a master’s degree in `Information and Communication Engineering` from `Nanjing University of Aeronautics and Astronautics`.
+>
 > Field of research: UAV-based optical target localization and adaptive parameter optimization, UAV track planning.
+>
 > Companies looking forward to joining: DJI, CASIC, CETC, HUAWEI
 
 ### Analytics ⚙️
