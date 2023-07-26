@@ -8,7 +8,6 @@
 ### Analytics ⚙️
 
 <div>
-  <a href="https://github.com/boom1999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boom1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boom1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -41,14 +40,14 @@
 <table align="center">
   <tr>
     <td align="center">
-      <div><b><em><spam>Statistics</spam></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
-    <td align="left">
-      <img src=".assets/metrics.plugin.habits.charts.svg"/>
+    <td align="center">
+      <img src="./assets/metrics.plugin.habits.charts.svg"/>
     </td>
   </tr>
 </table>
+
 
 [1]: http://www.nuaa.edu.cn
 [2]: https://pytorch.org
