@@ -12,6 +12,39 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boom1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="center">
+      <img src="./assets/metrics.plugin.habits.charts.svg"/>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img align="left" src="./assets/metrics.plugin.classic.svg" />
+    </td>
+    <td align="center">
+      <img src="./assets/metrics.plugin.wakatime.svg"/>
+    </td>
+  </tr>
+</table>
+
+
+[1]: http://www.nuaa.edu.cn
+[2]: https://pytorch.org
+[3]: https://www.lingzhicheng.cn
+[4]: http://uav.nuaa.edu.cn
+
+
+
 ### Languages & Tools 🛠
 
 <div style="display: inline_block"><br>
@@ -30,28 +63,5 @@
   <img align="center" alt="latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
   <img align="center" alt="markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
-    </td>
-    <td align="center">
-      <img src="./assets/metrics.plugin.habits.charts.svg"/>
-    </td>
-  </tr>
-</table>
-
-
-[1]: http://www.nuaa.edu.cn
-[2]: https://pytorch.org
-[3]: https://www.lingzhicheng.cn
-[4]: http://uav.nuaa.edu.cn
 
 <!-- markdownlint-disable-file MD033 MD041 -->
