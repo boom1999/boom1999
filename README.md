@@ -29,7 +29,7 @@
   </tr>
     <tr>
     <td align="center">
-      <img align="left" src="./assets/metrics.plugin.classic.svg" />
+      <img align="left" src="./assets/metrics.classic.svg" />
     </td>
     <td align="center">
       <img src="./assets/metrics.plugin.wakatime.svg"/>
