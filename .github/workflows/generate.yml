@@ -32,6 +32,24 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Asia/Shanghai
+          
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+      - name: account
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
 
   github-Snake:
     name: Jobs to update datas
