@@ -21,6 +21,20 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+  Recent-activity-charts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recent-activity-charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Shanghai
+
   github-Snake:
     name: Jobs to update datas
     runs-on: ubuntu-latest
@@ -45,17 +59,3 @@ jobs:
           branch: main
           default_author: github_actions
           message: 'Generate Contribution Snake'
-
-  Recent-activity-charts:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Recent-activity-charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Asia/Shanghai
