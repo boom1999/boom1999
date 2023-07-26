@@ -31,7 +31,11 @@
   <img align="center" alt="latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
   <img align="center" alt="markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
 
-  ![Snake animation](https://github.com/boom1999/boom1999/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+  </picture>
 </div>
 
 <!--START_SECTION:waka-->
