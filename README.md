@@ -7,18 +7,23 @@
 
 ### Analytics ⚙️
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boom1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boom1999&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
-
 <table align="center">
+  <tr>
+    <td align="center">
+      <img align="left" src="./assets/metrics.classic.svg" />
+    </td>
+    <td align="center">
+      <img src="./assets/metrics.plugin.introduction.svg"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img align="left" src="./assets/metrics.plugin.wakatime.svg" />
+    </td>
+    <td align="center">
+      <img src="./assets/metrics.plugin.languages.indepth.svg"/>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
@@ -27,16 +32,13 @@
       <img src="./assets/metrics.plugin.habits.charts.svg"/>
     </td>
   </tr>
-    <tr>
-    <td align="center">
-      <img align="left" src="./assets/metrics.classic.svg" />
-    </td>
-    <td align="center">
-      <img src="./assets/metrics.plugin.wakatime.svg"/>
-    </td>
-  </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 
 [1]: http://www.nuaa.edu.cn
 [2]: https://pytorch.org
