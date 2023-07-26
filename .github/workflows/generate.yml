@@ -41,12 +41,13 @@ jobs:
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_days: 180
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: account
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: assets/metrics.classic.svg
           token: ${{ secrets.GH_TOKEN }}
           base: header, repositories
           plugin_lines: yes
