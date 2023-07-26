@@ -56,7 +56,7 @@ jobs:
         with:
           filename: assets/metrics.plugin.introduction.svg
           token: ${{ secrets.GH_TOKEN }}
-          user: zjutjh
+          user: github
           base: header
           plugin_introduction: yes
           
