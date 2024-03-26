@@ -49,19 +49,19 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/python.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/c.svg">
-  <img align="center" alt="cplusplus" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/cplusplus.svg">
-  <img align="center" alt="matlab" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/matlab.svg">
-  <img align="center" alt="go" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/go.svg">
-  <img align="center" alt="bash" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/bash.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/java.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/cplusplus.svg">
+  <img align="center" alt="Matlab" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/matlab.svg">
+  <img align="center" alt="Go" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/go.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/bash.svg">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="linux" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/linux.svg">
-  <img align="center" alt="vim" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/vim.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/docker.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/git.svg">
-  <img align="center" alt="latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
-  <img align="center" alt="markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/linux.svg">
+  <img align="center" alt="Vim" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/vim.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/docker.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/git.svg">
+  <img align="center" alt="Latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
+  <img align="center" alt="Markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
 </div>
 
 <!-- markdownlint-disable-file MD033 MD041 -->
