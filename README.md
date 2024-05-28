@@ -58,6 +58,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/linux.svg">
   <img align="center" alt="Vim" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/vim.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/kubernetes.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/docker.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/git.svg">
   <img align="center" alt="Latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
