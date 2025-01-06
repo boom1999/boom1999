@@ -1,15 +1,13 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
 
-- 🔭 Student in  [Nanjing University of Aeronautics and Astronautics][1]
+- 🔭 Student in  [Nanjing University of Aeronautics and Astronautics][1], [Unmanned Aerial Vehicles Research Institute][2]
 - 🌱 I’m currently learning Distributed System
-- 📫 How to reach me: [Website][2]
-- ⚡ Future study: [Unmanned Aerial Vehicles Research Institute][3]
+- 📫 How to reach me: [Website][3]
+- ⚡ Future work: HUAWEI 2012 Lab 
 
 > Currently studying for a master’s degree in `Information and Communication Engineering` from `Nanjing University of Aeronautics and Astronautics`.
 >
 > Field of research: UAV-based optical target localization and adaptive parameter optimization, UAV track planning.
->
-> Companies looking forward to joining: CASIC, DJI, CETC, HUAWEI
 
 ### Analytics ⚙️
 
@@ -39,8 +37,8 @@
 </picture>
 
 [1]: http://www.nuaa.edu.cn
-[2]: https://www.lingzhicheng.cn
-[3]: http://uav.nuaa.edu.cn
+[2]: https://uav.nuaa.edu.cn/main.htm
+[3]: https://www.lingzhicheng.cn
 
 
 
