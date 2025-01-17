@@ -43,21 +43,21 @@
 ### Languages & Tools 🛠
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/python.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/java.svg">
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/cplusplus.svg">
-  <img align="center" alt="Matlab" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/matlab.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/go.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/bash.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/java.svg" style="display: inline-block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/python.svg" style="display: inline-block">
+  <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/cplusplus.svg" style="display: inline-block">
+  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/golang.svg" style="display: inline-block">
+  <img align="center" alt="matlab" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/matlab.svg" style="display: inline-block">
+  <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/bash.svg" style="display: inline-block">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Linux" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/linux.svg">
-  <img align="center" alt="Vim" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/vim.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/kubernetes.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/docker.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/git.svg">
-  <img align="center" alt="Latex" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/latex.svg">
-  <img align="center" alt="Markdown" height="30" width="40" src="https://www.lingzhicheng.cn/usr/file/picture/icon/markdown.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/linux.svg" style="display: inline-block">
+  <img align="center" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/kubernetes.svg" style="display: inline-block">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/docker.svg" style="display: inline-block">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/git.svg" style="display: inline-block">
+  <img align="center" alt="latex" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/latex.svg" style="display: inline-block">
+  <img align="center" alt="markdown" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/markdown.svg" style="display: inline-block">
+  <img align="center" alt="vim" height="30" width="40" src="https://raw.githubusercontent.com/boom1999/boom1999.github.io/refs/heads/hexo_backup/images/icon/vim.svg" style="display: inline-block">
 </div>
 
 <!-- markdownlint-disable-file MD033 MD041 -->
