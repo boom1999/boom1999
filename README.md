@@ -36,7 +36,7 @@
 
 [1]: http://www.nuaa.edu.cn
 [2]: https://uav.nuaa.edu.cn/main.htm
-[3]: https://www.lingzhicheng.cn
+[3]: https://boom1999.github.io
 
 
 
