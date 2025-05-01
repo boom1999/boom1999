@@ -1,8 +1,8 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
+### About Me
 
-- 🌱 I received my M.S. in `Information and Communication Engineering` from [Nanjing University of Aeronautics and Astronautics][1] and [Unmanned Aerial Vehicles Research Institute][2], B.S. from [Zhejiang University of Technology][3].
-- 🔭 My research interests primary focus on **UAV-based optical target localization**, **UAV flight control system** and **track planning**.
-- 📫 How to reach me: [Website][4]
+- 🌱 I received my M.S. in `Information and Communication Engineering` from the [Nanjing University of Aeronautics and Astronautics][1], jointly advised by Prof. Lei Zhongkui and Prof. Huang Daqing at the [Unmanned Aerial Vehicles Research Institute][2]. Prior to that, I completed my B.S. at the [Zhejiang University of Technology][3].
+- 🔭 My research interests primary focus on **UAV-based optical target localization**, **UAV flight control systems**, and **track planning**. I am committed to achieving high-precision precision strike guidance for UAVs through autonomous mission planning and adaptive flight control.
+- 📫 How to reach me: [Personal Blog][4]
 - ⚡ Future work: HUAWEI 2012 Labs
 
 ### Analytics ⚙️
