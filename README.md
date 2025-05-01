@@ -1,7 +1,7 @@
 ### About Me
 
 - 🌱 I received my M.S. in `Information and Communication Engineering` from the [Nanjing University of Aeronautics and Astronautics][1], jointly advised by Prof. Lei Zhongkui and Prof. Huang Daqing at the [Unmanned Aerial Vehicles Research Institute][2]. Prior to that, I completed my B.S. at the [Zhejiang University of Technology][3].
-- 🔭 My research interests primary focus on **UAV-based optical target localization**, **UAV flight control systems**, and **track planning**. I am committed to achieving high-precision precision strike guidance for UAVs through autonomous mission planning and adaptive flight control.
+- 🔭 My research interests primary focus on **UAV-based optical target localization**, **flight control systems**, and **track planning**. I am committed to achieving high-precision precision strike guidance for UAVs through autonomous mission planning and adaptive flight control.
 - 📫 How to reach me: [Personal Blog][4]
 - ⚡ Future work: HUAWEI 2012 Labs
 
